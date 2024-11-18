@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hello there, I'm Mohammed Muqeet.
 
-<!--
-**Muqeet-Salam/Muqeet-Salam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering student at CBIT pursuing my degree in AIML.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm always on a hunt to find the next thing that can interest me.
+- Currently upping my coding skills because why not.
+- I want to, one day, get into game development.
+
+## Skills
+
+- Programming languages: HTML, Python, CSS, C, Javascript.
+- Technologies: React, Django, MySQL, Mongodb, GSAP, Tailwindcss.
+- Tools: Pycharm, VS Code, Atom.
+
+## GitHub Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=Muqeet-Salam&show_icons=true&theme=radical)
