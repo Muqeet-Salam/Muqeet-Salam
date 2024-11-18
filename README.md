@@ -14,6 +14,3 @@ I'm an Engineering student at CBIT pursuing my degree in AIML.
 - Technologies: React, Django, MySQL, Mongodb, GSAP, Tailwindcss.
 - Tools: Pycharm, VS Code, Atom.
 
-## GitHub Stats
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Muqeet-Salam&show_icons=true&theme=radical)
