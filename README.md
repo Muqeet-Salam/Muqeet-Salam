@@ -12,5 +12,6 @@ I'm an Engineering student at CBIT pursuing my degree in AIML.
 
 - Programming languages: HTML, Python, CSS, C, Javascript.
 - Technologies: React, Django, MySQL, Mongodb, GSAP, Tailwindcss.
+- Machine Learning & Deep Learning: Proficient in building and training models, working with libraries like TensorFlow, PyTorch, Scikit-learn, and Keras, with a focus on data preprocessing, supervised/unsupervised learning, and neural networks.
 - Tools: Pycharm, VS Code, Atom.
 
