@@ -8,7 +8,7 @@ Currently, I'm interested in building software that sits somewhere between **AI 
 
 ---
 
-## Things I've Built/helper build
+## Things I've Built/helped build
 
 ### Inferno AI — Document Intelligence
 
